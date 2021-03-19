@@ -1,0 +1,10 @@
+export const onClickBtnPosts = "ONCLICKBTNPOSTS";
+export const clickLikePost = "CLICKLIKEPOST";
+export const exitApp = "EXITAPP";
+export const deletePost = "DELETEPOST";
+export const goToProfile = "GOTOPROFILE";
+export const toFeed = "TOFEED";
+export const changeSubscription = "CHANGESUBSCRIPTION";
+export const addPostBlock = "ADDPOSTBLOCK";
+export const changeAddPostText = "CHANGEADDPOSTTEXT";
+export const addPostClick = "ADDPOSTCLICK";
